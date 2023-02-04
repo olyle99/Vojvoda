@@ -1,1 +1,2 @@
-# Vojvoda
+#EXTINF:0 group-title="[⚠️]NJOFTIM" tvg-logo="https://eksplorobe.com/wp-content/uploads/2019/05/Untitled.png",[$]READY TO ENJOY IPTV! WAITING....
+http://iptvtest.tv/index.m3u8
