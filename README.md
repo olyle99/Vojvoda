@@ -45,6 +45,84 @@ http://restream.tivivo.cc:25461/localhost/Olv9RaNoHl/1402|User-Agent=xut7wffn6v2
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/gkBU0qm.png",[$]TEVE-1
 http://restream.tivivo.cc:25461/localhost/Olv9RaNoHl/2638|User-Agent=xut7wffn6v2a4aw6
 
+
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU FHD 
+http://212.129.1.10/live/1/1/1.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU HD
+http://37.49.230.48:8080/live/tomstme300/tomasarenatelegramme300/173458.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/Sph5sqo.png",[$]STAR PLUS HD
+http://37.49.230.48:8080/live/tomstme300/tomasarenatelegramme300/12428.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/6Eg70KI.png",[$]BLUE SKY HD
+http://37.49.230.48:8080/live/tomstme300/tomasarenatelegramme300/151757.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/6Eg70KI.png",[$]BLUE SKY
+http://server.sibfungold.info:8080/wassimaloui21/nVvW5yVxLz/47158
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/UorxjY1.png",[$]TV1 CHANNEL HD
+http://37.49.230.48:8080/live/tomstme300/tomasarenatelegramme300/188076.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/UorxjY1.png",[$]TV1 CHANNEL
+http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:C7:02:9E&stream=261984&extension=ts
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/JwR2Pz3.png",[$]ROZAFA TV
+http://37.49.230.48:8080/live/tomstme300/tomasarenatelegramme300/6730.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/JwR2Pz3.png",[$]ROZAFA TV
+http://163.172.87.151:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/M74GGzz.png",[$]STAR-24
+http://109.236.44.178:99/AVN/video.m3u8?token=Nigk6_KUq1
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/eZUVbXF.png",[$]NOVA MEDIA
+http://stream53132novamedia.amtnorth.com:1935/Nova/myStream/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/pgNDxOY.png",[$]BULEVARD TV
+http://bulevardtv.online/bulevardtv/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/ierZxop.png",[$]CLUB TV
+http://185.234.217.29:8011/play/a003/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/fqTmlvQ.png",[$]SHIJAK TV
+http://109.104.129.196:8004/play/s39?
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/fqTmlvQ.png",[$]SHIJAK
+http://edge01eu.ekranet.com/shijaktv/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/PvBkXgo.png",[$]SPIN-TV HD
+http://45.84.119.46:8022/0.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/J18W7mX.png",[$]TV ILIRIDA HD
+http://144.76.100.109/tvilirida/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/qXHwniY.png",[$]NESER TV
+https://protokolldns.xyz/ntv/livestream9956544786625444/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/f3ORfwL.png",[$]REAL RTV HD
+https://protokolldns.xyz/r.e.a.l.w.e.b/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/PwMGXHC.png",[$]TV JOHANITER GOLD HD
+https://protokolldns.xyz/jo.h.a.n.t.e.r/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/QxhfNwk.png",[$]TV TROPOJA HD
+http://live2.tropoja.tv/al/tropoja/playlist.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/NnXH4nt.png",[$]ALB-DREAMS
+http://live.albavision.net:1123/live/albdreams.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/SsMv2Sl.png",[$]ALB UK HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/xPlQjFa.png",[$]ARTI TV
+http://stream.logic-ks.net:6969/live/artitv/hd/24.ts
+#EXTINF:0 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/Bp1YOGC.png",[$]ALBANIAN TV OF AMERICA
+https://tna5.bozztv.com/ALBANIANTVUSA/index.m3u8|Referer=https://ssh101.com/fplayer/7.2.7/hls.light.min.js:1
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/GbwHA7m.png",[$]USA TV MICHIGAN HD
+http://live.albavision.net:1123/live/actv.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/S1zJaQV.png",[$]AMERICAN TV OF DARDANIA
+http://46.99.146.236/0.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/GU69sc0.png",[$]ALBANIA TV CHICAGO HD
+http://ott.dobratv.net:25461/ProxyIPTV/112233445566/7336?
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/GU69sc0.png",[$]ALBANIA TV CHICAGO
+https://tinyurl.com/usatvmak|User-Agent=stream
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/79hVRa1.png",[$]ALBANIAN NEW YORK HD
+http://195.154.176.63:80/agon-iptvshqip-aanewyorktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/mM5Dq5S.png",[$]ALPO
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/6hsC2pb.png",[$]TV USKANA HD
+http://188.44.8.20:60000/TvUskana
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/pWFwnLn.png",[$]SYRI BLUE HD
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/D5nFQxs.png",[$]TV KORCA+ HD
+http://32.shqiptv.org/korca/albplus/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/E68YY72.png",[$]PREMIUM CHANNEL HD
+https://premiummedia.al/stream/premium-channel/live.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/E68YY72.png",[$]PREMIUM TRAVEL HD
+https://premiummedia.al/stream/premium-travel/live.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/vAeQuNq.png",[$]7 TV
+http://media.az-mediaserver.com:1935/7064/7064/chunklist.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/w33lE2z.png",[$]TV DIELLI 
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+
 #EXTINF:0 group-title="[🇦🇱📺]LAJME" tvg-logo="https://i.imgur.com/uvbGBR6.png",[$]A2 CNN
 http://restream.tivivo.cc:25461/localhost/Olv9RaNoHl/42|User-Agent=xut7wffn6v2a4aw6
 #EXTINF:0 group-title="[🇦🇱📺]LAJME" tvg-logo="https://i.imgur.com/m6uiPO7.png",[$]RTSH 24
