@@ -319,7 +319,7 @@ http://185.89.156.111:8000/play/a02j?
 http://185.89.156.111:8000/play/a02k?
 #EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/Rqz8wbO.png",[$]OVERSPORT 3HD
 http://185.89.156.111:8000/play/a02l?
-#EXTINF:0 group-title="[🇦🇱📺]SPORTEE" tvg-logo="https://i.imgur.com/RLXV4U7.png",[$]OVERSPORT 4HD
+#EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/RLXV4U7.png",[$]OVERSPORT 4HD
 http://185.89.156.111:8000/play/a02m?
 #EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/GT0msrm.png",[$]OVERSPORT 1HD (backup)
 http://sharkytv.com:2082/cipo2673/6nKa4hs9fFS2U8/225957
